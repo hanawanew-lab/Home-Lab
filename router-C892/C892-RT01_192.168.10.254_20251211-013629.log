@@ -1,10 +1,7 @@
-
 C892-RT01#show run
 Building configuration...
 
-Current configuration : 1649 bytes
-!
-! Last configuration change at 17:43:27 UTC Fri Sep 26 2025 by admin
+Current configuration : 1578 bytes
 !
 version 15.0
 service timestamps debug datetime msec
@@ -42,7 +39,7 @@ username admin privilege 15 secret 5 $1$9zyv$C6DQwKaKc.E88Rnm6D83e1
 !
 !
 ip ssh version 2
-! 
+!
 !
 !
 !
