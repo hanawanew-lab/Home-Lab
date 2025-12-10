@@ -1,9 +1,9 @@
 C892-RT02#show run
 Building configuration...
 
-Current configuration : 1786 bytes
+Current configuration : 1733 bytes
 !
-! Last configuration change at 19:41:06 UTC Wed Dec 10 2025
+! Last configuration change at 20:20:05 UTC Wed Dec 10 2025 by admin
 version 15.1
 service timestamps debug datetime msec
 service timestamps log datetime msec
@@ -18,7 +18,6 @@ boot-end-marker
 !
 no aaa new-model
 !
-crypto pki token default removal timeout 0
 !
 !
 ip source-route
@@ -51,7 +50,7 @@ username admin privilege 15 secret 5 $1$9zyv$C6DQwKaKc.E88Rnm6D83e1
 !
 !
 ip ssh version 2
-! 
+!
 !
 !
 !
@@ -120,7 +119,6 @@ ip forward-protocol nd
 no ip http server
 no ip http secure-server
 !
-logging esm config
 !
 !
 !
@@ -148,6 +146,5 @@ line vty 0 4
 !
 scheduler max-task-time 5000
 end
-
 
 C892-RT02#
