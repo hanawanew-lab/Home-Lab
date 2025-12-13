@@ -1,0 +1,97 @@
+P28AC.9ED2.B25C#show ver
+             Restricted Rights Legend
+
+Use, duplication, or disclosure by the Government is subject to
+restrictions as set forth in subparagraph (c) of the Commercial
+Computer Software - Restricted Rights clause at FAR sec. 52.227-19 and
+subparagraph (c) (1) (ii) of the Rights in Technical Data and Computer
+Software clause at DFARS sec. 252.227-7013.
+
+            Cisco Systems, Inc.
+            170 West Tasman Drive
+            San Jose, California 95134-1706
+
+This product contains cryptographic features and is subject to United
+States and local country laws governing import, export, transfer and
+use. Delivery of Cisco cryptographic products does not imply
+third-party authority to import, export, distribute or use encryption.
+Importers, exporters, distributors and users are responsible for
+compliance with U.S. and local country laws. By using this product you
+agree to comply with applicable laws and regulations. If you are unable
+to comply with U.S. and local laws, return this product immediately.
+
+A summary of U.S. laws governing Cisco cryptographic products may be found at:
+http://www.cisco.com/wwl/export/crypto/tool/stqrg.html
+
+If you require further assistance please contact us by sending email to
+export@cisco.com.
+
+This product contains some software licensed under the
+"GNU General Public License, version 2" provided with
+ABSOLUTELY NO WARRANTY under the terms of
+"GNU General Public License, version 2", available here:
+http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+This product contains some software licensed under the
+"GNU Library General Public License, version 2" provided
+with ABSOLUTELY NO WARRANTY under the terms of "GNU Library
+General Public License, version 2", available here:
+http://www.gnu.org/licenses/old-licenses/lgpl-2.0.html
+
+This product contains some software licensed under the
+"GNU Lesser General Public License, version 2.1" provided
+with ABSOLUTELY NO WARRANTY under the terms of "GNU Lesser
+General Public License, version 2.1", available here:
+http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+
+This product contains some software licensed under the
+"GNU General Public License, version 3" provided with
+ABSOLUTELY NO WARRANTY under the terms of
+"GNU General Public License, Version 3", available here:
+http://www.gnu.org/licenses/gpl.html.
+
+This product contains some software licensed under the
+"GNU Affero General Public License, version 3" provided
+with ABSOLUTELY NO WARRANTY under the terms of
+"GNU Affero General Public License, version 3", available here:
+http://www.gnu.org/licenses/agpl-3.0.html.
+
+Cisco AP Software, (ap3g3), C2802, RELEASE SOFTWARE
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2018 by Cisco Systems, Inc.
+Compiled Fri Mar 24 18:57:44 GMT 2023
+
+ROM: Bootstrap program is U-Boot boot loader
+BOOTLDR: U-Boot boot loader Version 2013.01-g2ee3a18aa (Jun 03 2022 - 11:27:17)
+
+AP28AC.9ED2.B25C uptime is 0 days, 0 hours, 2 minutes
+Last reload time   : Fri Apr 6 23:59:59 UTC 2018
+Last reload reason : unknown
+
+cisco AIR-AP2802I-Q-K9 ARMv7 Processor rev 1 (v7l) with 1028200/479100K bytes of memory.
+Processor board ID FGL2224A3K2
+AP Running Image     : 8.10.185.0
+Primary Boot Image   : 8.10.185.0
+Backup Boot Image    : 0.0.0.0
+Primary Boot Image Hash:
+Backup  Boot Image Hash:
+AP Image type    : MOBILITY EXPRESS IMAGE
+AP Configuration : MOBILITY EXPRESS CAPABLE
+2 Gigabit Ethernet interfaces
+2 802.11 Radios
+Radio Driver version : 9.0.5.5-W8964
+Radio FW version : 9.1.8.1
+NSS FW version : 2.4.30
+
+Base ethernet MAC Address            : 28:AC:9E:D2:B2:5C
+Part Number                          : 73-100821-05
+PCA Assembly Number                  : 000-00000-00
+PCA Revision Number                  :
+PCB Serial Number                    : FDO22141080
+Top Assembly Part Number             : 068-100534-02
+Top Assembly Serial Number           : FGL2224A3K2
+Top Revision Number                  : A0
+Product/Model Number                 : AIR-AP2802I-Q-K9
+
+
+AP28AC.9ED2.B25C#
